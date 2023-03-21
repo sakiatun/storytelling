@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): Saki contra el mundo
+# Proyecto Storytelling: Saki contra el mundo
 
 Nombre del Equipo: Triple S
 
@@ -19,7 +19,7 @@ Tipo/Género:
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Saki
 
 
 ### Historia
