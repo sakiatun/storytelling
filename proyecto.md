@@ -17,7 +17,9 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![gatito](https://user-images.githubusercontent.com/128467010/226572678-612cd826-b31f-47f9-95eb-37978f3277ac.png)
+
+
 
 Nombre: Saki
 
