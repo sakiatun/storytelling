@@ -1,15 +1,16 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (template): Saki contra el mundo (provisional)
 
-Nombre del Equipo: 
+Nombre del Equipo: Triple S
+(Almudena Sánchez, Jorge Sánchez, Eva Talero)
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 ## Resumen
