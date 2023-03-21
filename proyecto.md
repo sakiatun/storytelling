@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): Saki contra el mundo
 
-Nombre del Equipo: Triple S (Almudena Sánchez, Jorge Sánchez, Eva Talero)
+Nombre del Equipo: Triple S
 
 Proyecto (código): 
 
@@ -57,9 +57,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Jorge Sánchez
+- :woman: Almudena Sánchez
+- :woman: Eva Talero 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
