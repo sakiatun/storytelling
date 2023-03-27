@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling: Saki contra el mundo
+# Proyecto Storytelling: Andréh Boquerón contra el mundo
 
 Nombre del Equipo: Triple S
 
@@ -19,9 +19,11 @@ Tipo/Género:
 
 ![gatito](https://user-images.githubusercontent.com/128467010/226572678-612cd826-b31f-47f9-95eb-37978f3277ac.png)
 
-
-
-Nombre: Saki
+Nombre: Andréh Boquerón
+Edad:25 años
+Altura: 80 centímetros
+Lugar de nacimiento: Barrio felino de Jaguapón
+Ocupación: Desempleado
 
 
 ### Historia
