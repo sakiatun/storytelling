@@ -21,7 +21,7 @@ Tipo/Género:
 
 Nombre: Andréh Boquerón
 
-Edad:25 años
+Edad: 25 años
 
 Altura: 80 centímetros
 
