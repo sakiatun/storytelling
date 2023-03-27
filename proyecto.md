@@ -14,6 +14,8 @@ Tipo/Género:
 
 ## Resumen
 
+Un gato llamado Andréh Boquerón se ha metido en problemas con el gran mafioso Pumai Llanos debido a la deuda que ha heredado por parte de su fallecido padre, Kneko. Junto a la ayuda de amigos como Lino Juan y otros aliados deberá escapar de sus garras y de las peleas de boxeo clandestinas a las que le quiere obligar a participar además de detener el avance de su imperio ilegal.
+
 
 ### Personaje
 
@@ -32,11 +34,18 @@ Ocupación: Desempleado
 
 ### Historia
 
+Andréh Boquerón nació en el seno de una familia un poco desestructurada pues su madre, conocedora de las infidelidades del padre, les abandonó a su suerte para irse con un adinerado gato persa. El padre de Andréh no fue el mejor de los cuidadores pero al menos el hijo no le salió rebelde aunque sí bastante hiperactivo y algo cuestionable en general.
+
+Andréh quería ser panadero pero las oposiciones son muy duras pues hay una gran sobrepoblación de gatos que también desean lo mismo, un sitio tranquilo donde amasar, por lo que ahora mismo está buscando trabajo de cualquier otra cosa pero está siendo muy duro para él porque piden años de experiencia que no tiene.
+
+Su padre falleció por un ataque al corazón y ese mismo día recibió la visita de una banda de mafiosos, Pumai Family, que le revelaron la gran deuda que tenía su padre con ellos, le dieron unos días para pagarla antes de que empezara a sufrir las consecuencias. 
 
 ### Contexto
 
 
 ### Conflicto 
+
+El protagonista tiene que pagar una deuda con un mafioso que le obliga a entrar en su negocio de las peleas de boxeo clandestinas.
 
 
 
