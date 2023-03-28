@@ -51,7 +51,7 @@ El protagonista tiene que pagar una deuda con un mafioso que le obliga a entrar 
 
 ### Productos
 
-![Ilustración_sin_título](https://user-images.githubusercontent.com/128467010/228155081-ee1b954b-6e5b-4d56-9ff5-ca0f13f20da9.png)
+![Ilustración_sin_título](https://user-images.githubusercontent.com/128467010/228155355-459e2c66-52bd-4872-994e-a42044963018.png)
 
 - Personaje: https://www.buzzfeed.com/ririthefairy/aqua-personaje-principal-de-andreh-boqueran-co-f4hoperaks
 
@@ -60,7 +60,6 @@ El protagonista tiene que pagar una deuda con un mafioso que le obliga a entrar 
 
 
 - Storytelling: (enlace) 
-
 
 
 
