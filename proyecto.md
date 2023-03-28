@@ -42,6 +42,8 @@ Su padre falleció por un ataque al corazón y ese mismo día recibió la visita
 
 ### Contexto
 
+Nos situamos en un planeta donde no hay humanos sino animales inspirados en famosos streamers como IlloJuan, El Bokerón, Cristinini, Ibai... Este último es un mafioso con gran poder gracias a sus combate de boxeo clandestinos y su red ilegal donde cada vez más personas están implicadas.
+
 
 ### Conflicto 
 
