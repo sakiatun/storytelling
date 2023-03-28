@@ -38,6 +38,8 @@ Andréh quería ser panadero pero las oposiciones son muy duras pues hay una gra
 
 Su padre falleció por un ataque al corazón y ese mismo día recibió la visita de una banda de mafiosos, Pumai Family, que le revelaron la gran deuda que tenía su padre con ellos, le dieron unos días para pagarla antes de que empezara a sufrir las consecuencias. 
 
+LORE EXTRA: https://docs.google.com/document/d/1WIeg_570jRmtqelRFNlqMACLgLTLP97v5dGHKrxrJ3U/edit?usp=sharing
+
 ### Contexto
 
 Nos situamos en un planeta donde no hay humanos sino animales inspirados en famosos streamers como IlloJuan, El Bokerón, Cristinini, Ibai... Este último es un mafioso con gran poder gracias a sus combate de boxeo clandestinos y su red ilegal donde cada vez más personas están implicadas.
