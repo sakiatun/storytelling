@@ -19,7 +19,7 @@ Un gato llamado Andréh Boquerón se ha metido en problemas con el gran mafioso 
 
 ### Personaje
 
-![gatito](https://user-images.githubusercontent.com/128467010/226572678-612cd826-b31f-47f9-95eb-37978f3277ac.png)
+![ANDRE](https://user-images.githubusercontent.com/128467010/228154727-b8eb0114-d779-4835-917e-308323093044.png)
 
 Nombre: Andréh Boquerón
 
@@ -51,7 +51,9 @@ El protagonista tiene que pagar una deuda con un mafioso que le obliga a entrar 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+![Ilustración_sin_título](https://user-images.githubusercontent.com/128467010/228155081-ee1b954b-6e5b-4d56-9ff5-ca0f13f20da9.png)
+
+- Personaje: https://www.buzzfeed.com/ririthefairy/aqua-personaje-principal-de-andreh-boqueran-co-f4hoperaks
 
 
 - Banner/Teaser:  (enlace) 
